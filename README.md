@@ -15,6 +15,11 @@ Done this to reduce dataset size. There were many masked patches with only backg
 ## Trained Model weights
 https://drive.google.com/file/d/1QuuNhgFUcbqmEhHIGVKbuOuWnUSf-f9L/view?usp=sharing
 
+## Result
+<br>
+<img width="100%" src="predictions.png"></a>
+<br>
+<br>
 ## References
 Understanding important features of deep learning models for segmentation of high-resolution transmission electron microscopy images
 https://rdcu.be/c8YtO
