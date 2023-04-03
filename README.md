@@ -12,6 +12,9 @@ Reasonable size which covered the particles in full.  We could go for a higher r
 ## Removing patches carrying no information
 Done this to reduce dataset size. There were many masked patches with only background.
 
+## Trained Model weights
+https://drive.google.com/file/d/1QuuNhgFUcbqmEhHIGVKbuOuWnUSf-f9L/view?usp=sharing
+
 ## References
 Understanding important features of deep learning models for segmentation of high-resolution transmission electron microscopy images
 https://rdcu.be/c8YtO
