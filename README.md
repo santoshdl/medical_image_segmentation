@@ -165,6 +165,7 @@ ce_loss_fn = nn.CrossEntropyLoss(weight=class_weights)
 3. Included better augmentations.  Atleast flip and rotations. This dataset is not direction sensitive.
 4. Is the model selection correct?  Should check against other medical segmentation models. I could find U-Net or Flavours of U-Net mostly.
    https://www.cs.jhu.edu/~alanlab/Pubs21/chen2021transunet.pdf  Yr-2021  claims Transformer as encoder is doing good job. 
+5. Oversampling the red, green and blue regions.
 
 
 ## Source code and related files
